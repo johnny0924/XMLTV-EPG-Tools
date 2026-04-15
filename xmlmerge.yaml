@@ -1,8 +1,4 @@
 files:
-  - https://iptv-epg.org/files/epg-mk.xml
-  - https://iptv-epg.org/files/epg-mk.xml.gz
-  - https://iptv-epg.org/files/epg-rs.xml.gz
-  - https://iptv-epg.org/files/epg-hr.xml.gz
-  - https://iptv-epg.org/files/epg-ba.xml.gz
-  - https://iptv-epg.org/files/epg-si.xml.gz
-  - https://iptv-epg.org/files/epg-me.xml.gz
+  - http://nine05.mine.nu:4080/espn_yt/epg.xml
+  - http://nine05.mine.nu:4080/espn_yt/epg.xml.gz
+  - https://www.open-epg.com/files/trinidad1.xml.gz
