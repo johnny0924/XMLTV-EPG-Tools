@@ -1,4 +1,3 @@
 files:
   - http://nine05.mine.nu:4080/espn_yt/epg.xml
-  - https://www.open-epg.com/files/jamaica.xml.gz
-  - https://www.open-epg.com/files/trinidad1.xml.gz
+  - http://905.mine.nu/STAR_EPG/streamking_sports/epg.xml
